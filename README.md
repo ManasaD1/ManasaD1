@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on:<br>Full-stack web development projects and improving my DSA skills.<br>👯 I’m looking to collaborate on:<br>Open-source projects, web development, and beginner-friendly tech projects.<br>🤝 I’m looking for help with:<br>Advanced DSA, backend optimization, and real-world project architecture.<br>🌱 I’m currently learning:<br>Java, Python, Data Structures & Algorithms, and Full-Stack Development (HTML, CSS, JavaScript, React, Node.js).<br>💬 Ask me about:<br>Programming basics, Java, Python, and web development fundamentals.<br>⚡ Fun fact:<br>I love exploring new technologies and turning ideas into real projects 🚀
+<br>🔭 I’m currently working on:<br>Full-stack web development projects and improving my DSA skills.<br>👯 I’m looking to collaborate on:<br>Open-source projects, web development, and beginner-friendly tech projects.<br>🤝 I’m looking for help with:<br>Advanced DSA, backend optimization, and real-world project architecture.<br>🌱 I’m currently learning:<br>Java, Python, Data Structures & Algorithms, and Full-Stack Development (HTML, CSS, JavaScript, React, Node.js).<br>💬 Ask me about:<br>Programming basics, Java, Python, and web development fundamentals.<br>⚡ Fun fact:<br>I love exploring new technologies and turning ideas into real projects 🚀
 
 
 # 💻 Tech Stack:
